@@ -70,7 +70,7 @@ Task-2-ShivanshChhabra/
 
 ## Installation
 
-Clone the repository:
+Clone the repository: https://github.com/shivansh-chhabra/Task-2-ShivanshChhabra
 
 git clone <repository-url>
 
